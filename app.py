@@ -9,7 +9,7 @@ st.set_page_config(
 )
 def main():
     st.title("*Welcome to the Public Test Platform*")
-    st.header("🩺Mind-Set-Go: A personalized mental health system using python and ML")
+    st.header("🩺Mind-Set-Go: A personalized mental health system using python.")
     st.write("Please use the sidebar to navigate to different tests.")
     st.warning("**Note:** Before going read the disclaimer!")
     disclaimer_content = """
