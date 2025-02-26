@@ -1,0 +1,28 @@
+Choose your gender,Age,What is your course?,Your current year of Study,Having difficulty falling asleep,Having difficulty staying asleep,Problems waking up too early,Please select the answer that best describes how satisfied or dissatisfied you are with your current sleep pattern?,Please select how noticeable to others you think your sleep problem is in terms of impairing the quality of your life?,Please select how worried or distressed you are about your current sleep problem?,"Please select the extent you consider your sleep problem to interfere with your daily functioning (i.e. daytime fatigue, mood, ability to function at work/daily chores, concentration, memory etc) currently."
+Female,19,B.Tech,Year 2,No,No,No,Moderately satisfied,Somewhat,A little,Not at all interfering
+Female,19,B.Tech,Year 2,Severe,Very Severe,Severe,Very dissatisfied,Much,Very much worried,Much
+Female,19,B.Tech,Year 2,Severe,Very Severe,Severe,Very dissatisfied,Much,Very much worried,Much
+Female,19,B.Tech,Year 2,Severe,Very Severe,Severe,Very dissatisfied,Much,Very much worried,Much
+Female,19,B.Tech,Year 2,Severe,Very Severe,Severe,Very dissatisfied,Much,Very much worried,Much
+Female,19,Intermediate/Diploma/B.Sc,Year 2,Severe,Very Severe,Severe,Very dissatisfied,Much,Very much worried,Much
+Female,19,Intermediate/Diploma/B.Sc,Year 2,Severe,Very Severe,Severe,Very dissatisfied,Much,Very much worried,Much
+Female,19,Intermediate/Diploma/B.Sc,Year 2,Severe,Very Severe,Severe,Very dissatisfied,Much,Very much worried,Much
+Female,19,other,Year 2,Severe,Very Severe,Severe,Very dissatisfied,Much,Very much worried,Much
+Male,0,Schooling,Year 1,No,No,No,Very satisfied,Not at all noticeable,Not at all worried,Not at all interfering
+Male,0,Schooling,Year 1,No,No,No,Very satisfied,Not at all noticeable,Not at all worried,Not at all interfering
+Male,0,Schooling,Year 1,No,No,No,Very satisfied,Not at all noticeable,Not at all worried,Not at all interfering
+Male,0,Schooling,Year 1,No,No,No,Very satisfied,Not at all noticeable,Not at all worried,Not at all interfering
+Male,0,Schooling,Year 1,No,No,No,Very satisfied,Not at all noticeable,Not at all worried,Not at all interfering
+Male,0,Schooling,Year 1,No,No,No,Very satisfied,Not at all noticeable,Not at all worried,Not at all interfering
+Male,0,Schooling,Year 1,No,No,No,Very satisfied,Not at all noticeable,Not at all worried,Not at all interfering
+Male,0,Schooling,Year 1,No,No,No,Very satisfied,Not at all noticeable,Not at all worried,Not at all interfering
+Male,0,Schooling,Year 1,No,No,No,Very satisfied,Not at all noticeable,Not at all worried,Not at all interfering
+Male,0,Schooling,Year 1,No,No,No,Very satisfied,Not at all noticeable,Not at all worried,Not at all interfering
+Female,17,Intermediate/Diploma/B.Sc,Year 2,Moderate,Moderate,Mild,Moderately satisfied,A little,A little,Not at all interfering
+Female,17,Intermediate/Diploma/B.Sc,Year 2,Moderate,Moderate,Mild,Very satisfied,Not at all noticeable,Not at all worried,Not at all interfering
+Female,17,Intermediate/Diploma/B.Sc,Year 2,Moderate,Moderate,Mild,Very satisfied,Somewhat,Very much worried,Very much interfering
+Female,17,Intermediate/Diploma/B.Sc,Year 2,Moderate,Moderate,Mild,Very dissatisfied,Very Much noticeable,Very much worried,Very much interfering
+Female,17,Intermediate/Diploma/B.Sc,Year 2,Very Severe,Very Severe,Mild,Very dissatisfied,Very Much noticeable,Very much worried,Very much interfering
+Female,14,Schooling,Not in above,Mild,Moderate,Moderate,Moderately satisfied,A little,Not at all worried,A little
+Female,14,Schooling,Not in above,Mild,Moderate,Moderate,Moderately satisfied,Very Much noticeable,Very much worried,Very much interfering
+Male,15,Schooling,Year 1,No,No,No,Very satisfied,Not at all noticeable,Not at all worried,Not at all interfering
